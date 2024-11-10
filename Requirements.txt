@@ -1,0 +1,11 @@
+numpy
+opencv-python
+tensorflow
+matplotlib
+keras-cv
+roboflow
+git+https://github.com/facebookresearch/detectron2.git
+ultralytics==8.2.103
+ipython   
+scikit-learn 
+Pillow  
